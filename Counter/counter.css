@@ -1,0 +1,17 @@
+.heading-style{
+    font-size:30px;
+}
+
+.first{
+    background-color:#2a2a2a;
+    height:100vh;
+    text-align:center;
+}
+
+
+.card-style{
+    border-radius:10px;
+    text-align:center;
+    background-color:aquamarine;
+    margin:200px;
+}
